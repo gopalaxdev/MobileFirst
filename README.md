@@ -22,5 +22,5 @@
 Below is JokesSpot page
 ![Add](https://github.com/gops12345/MobileFirst/blob/main/Images/JokesSpot.PNG)
 
-Note: When adding tasks data is stored in the local storage/backend. So it will disappear on reload
+Note: When adding tasks data is not stored in the local storage/backend. So it will disappear on reload
  
